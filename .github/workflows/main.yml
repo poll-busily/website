@@ -29,6 +29,11 @@ jobs:
         env:
           PAGES_BRANCH: gh-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+  deploy_azure:
+    needs: build_and_deploy
+    runs-on: ubuntu-latest  
+    steps:
       - name: Checkout gh-pages
         uses: actions/checkout@v4
         with:
