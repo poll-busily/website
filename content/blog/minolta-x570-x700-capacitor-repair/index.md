@@ -6,15 +6,16 @@ date = 2017-11-01
 tags = ["photography", "repair"]
 +++
 
-Here are some instructions for replacing the primary electrolytic capacitor found in several Minolta film SLR bodies. Over time, electrolytic capacitors are prone to failure and these Minolta bodies start to show strange behaviour like not actuating the shutter all the time. 
+Here are some instructions for replacing the primary electrolytic capacitor found in several Minolta film SLR bodies.
+
+<!-- more -->
+Over time, electrolytic capacitors are prone to failure and these Minolta bodies start to show strange behaviour like not actuating the shutter all the time. 
 
 If you’re handy with a soldering iron then it’s actually relatively simple to replace the old cap with a new one and revive a capable camera that would otherwise end up in landfill. I came across a few examples of this operation in the far corners of the internet but those had small, low-quality photos and I wanted to provide something that’s hopefully more detailed and easier to follow. 
 
 This guide applies primarily to the X-500 (or X-570 as it was marketed in the USA) but should also apply to the X-300/X-370 models as well. All photos shown here are of the X-500/X-570 model. 
 
 The X-700 has, as I understand it, an additional capacitor at the top of the camera and the replacement of that isn’t covered here. Replacing just the bottom capacitor is sometimes enough to get the camera working again and sometimes not. 
-
-<!-- more -->
 
 {{ img(path="./image.jpg", alt="") }}
 
@@ -43,7 +44,7 @@ The original capacitor from the X-500 and X-300 will be either a 200uF or 220uF,
 **Note:** Apparently, the X-500/X-300 service manual calls for a 150uF, 3.15v cap so if you have trouble finding a 200uF or 220uF that will fit, you may well be able to use a smaller 150uF instead. Thanks to Roland for leaving a comment on a previous version of this article with the info. 
 My Original Choice
 
-I used a Nichicon USR0J221MDD 6.3V, 220uF cap, available at RS Electronics with part number 475-8719. I like RS because they don’t have a minimum order quantity, which makes small, one-off orders like this more reasonable, but this is not an affiliate link :-). 
+I used a [Nichicon USR0J221MDD 6.3V, 220uF](https://uk.rs-online.com/web/p/aluminium-capacitors/4758719) cap, available at RS Electronics with part number 475-8719. I like RS because they don’t have a minimum order quantity, which makes small, one-off orders like this more reasonable, but this is not an affiliate link :-). 
 
 The capacitor I chose is from the SR series and is 6.3mm in diameter and 7mm in length. This provides a good fit with plenty of room to spare. Other caps with the same rating will work. You could get away with a longer cap but I wouldn’t use one with a diameter much above 7mm as it might be a tight fit near the base. 
 
@@ -51,11 +52,11 @@ The capacitor I chose is from the SR series and is 6.3mm in diameter and 7mm in 
 
 As of 2024, the above cap that I used has gone end of life. Here are some alternatives to consider. These should meet all the same specs but I haven't tested them myself.
 
-- Panasonic ECE-A0JKA221
-- RS PRO 220μF
+- [Panasonic ECE-A0JKA221](https://mou.sr/3Towbej)
+- [RS PRO 220μF](https://uk.rs-online.com/web/p/aluminium-capacitors/7060589)
 
 ## Process
-The usual disclaimer before you go ahead: it’s always possible that you could damage the camera (or yourself!) by attempting the repair. If you’re not comfortable with a soldering iron and basic electronics then you should consider sending the camera off to a repair shop instead (maybe point them to this article!).
+**The usual disclaimer before you go ahead: it’s always possible that you could damage the camera (or yourself!) by attempting the repair. If you’re not comfortable with a soldering iron and basic electronics then you should consider sending the camera off to a repair shop instead (maybe point them to this article!).**
 
 First, make sure that any film and batteries have been removed from the camera. I like to be certain that I’m not going to cause any issues if I accidentally short out any contacts with the soldering iron or solder wick.
 
