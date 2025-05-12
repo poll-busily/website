@@ -36,11 +36,11 @@ taxonomies = [
 ]
 
 [languages.en.translations]
-projects = "Projects"
+projects = "Photography"
 blog = "Blog"
 about = "About"
-recent_projects = "Recent Projects"
-more_projects = "More Projects"
+recent_projects = "Recent Photography"
+more_projects = "More Photography"
 recent_blog_posts = "Recent Blog Posts"
 more_blog_posts = "More blog posts"
 tag = "Tag"
