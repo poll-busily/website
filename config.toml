@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://www.paulbeesley.com"
+base_url = "https://poll-busily.github.io/website"
 
 default_language = "en"
 
