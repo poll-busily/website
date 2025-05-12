@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://white-pebble-063b0a203.6.azurestaticapps.net"
+base_url = "https://www.paulbeesley.com"
 
 default_language = "en"
 
