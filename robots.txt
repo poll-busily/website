@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://white-pebble-063b0a203.6.azurestaticapps.net    /sitemap.xml

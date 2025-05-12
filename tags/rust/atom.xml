@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Paul Beesley - rust</title>
+    <subtitle>Photography, technology and amateur radio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://white-pebble-063b0a203.6.azurestaticapps.net    /tags/rust/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://white-pebble-063b0a203.6.azurestaticapps.net    "/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-10-03T00:00:00+00:00</updated>
+    <id>https://white-pebble-063b0a203.6.azurestaticapps.net    /tags/rust/atom.xml</id>
+    <entry xml:lang="en">
+        <title>什么是 Zola</title>
+        <published>2021-10-03T00:00:00+00:00</published>
+        <updated>2021-10-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/what-is-zola-zh/"/>
+        <id>https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/what-is-zola-zh/</id>
+        
+        <summary type="html">&lt;p&gt;Zola 是一个 Rust 编写的静态博客框架。&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>What is Zola</title>
+        <published>2021-10-03T00:00:00+00:00</published>
+        <updated>2021-10-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/what-is-zola/"/>
+        <id>https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/what-is-zola/</id>
+        
+        <summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+</feed>

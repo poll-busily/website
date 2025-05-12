@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Paul Beesley - other</title>
+    <subtitle>Photography, technology and amateur radio</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://white-pebble-063b0a203.6.azurestaticapps.net    /tags/other/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://white-pebble-063b0a203.6.azurestaticapps.net    "/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-10-04T00:00:00+00:00</updated>
+    <id>https://white-pebble-063b0a203.6.azurestaticapps.net    /tags/other/atom.xml</id>
+    <entry xml:lang="en">
+        <title>No summary</title>
+        <published>2021-10-04T00:00:00+00:00</published>
+        <updated>2021-10-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/no-summary/"/>
+        <id>https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/no-summary/</id>
+        
+        <content type="html" xml:base="https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/no-summary/">&lt;p&gt;This page has no summary as described in the &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;documentation&#x2F;content&#x2F;page&#x2F;#summary&quot;&gt;Zola documentation&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>什么是 Zola</title>
+        <published>2021-10-03T00:00:00+00:00</published>
+        <updated>2021-10-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/what-is-zola-zh/"/>
+        <id>https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/what-is-zola-zh/</id>
+        
+        <summary type="html">&lt;p&gt;Zola 是一个 Rust 编写的静态博客框架。&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>What is Zola</title>
+        <published>2021-10-03T00:00:00+00:00</published>
+        <updated>2021-10-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/what-is-zola/"/>
+        <id>https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/what-is-zola/</id>
+        
+        <summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>More on Skinks</title>
+        <published>2021-10-02T00:00:00+00:00</published>
+        <updated>2021-10-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/another-post/"/>
+        <id>https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/another-post/</id>
+        
+        <summary type="html">&lt;p&gt;Many species are good burrowers. More species are terrestrial or fossorial (burrowing) than arboreal (tree-climbing) or aquatic species.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Relative Path of Image</title>
+        <published>2021-10-01T00:00:00+00:00</published>
+        <updated>2021-10-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/blog-with-image/"/>
+        <id>https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/blog-with-image/</id>
+        
+        <summary type="html">&lt;p&gt;Use &lt;code&gt;img()&lt;&#x2F;code&gt; to specify the relative path of image.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>图片相对路径</title>
+        <published>2021-10-01T00:00:00+00:00</published>
+        <updated>2021-10-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/index-zh/"/>
+        <id>https://white-pebble-063b0a203.6.azurestaticapps.net    /blog/index-zh/</id>
+        
+        <summary type="html">&lt;p&gt;使用 &lt;code&gt;img()&lt;&#x2F;code&gt; 指定相对路径&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+</feed>
