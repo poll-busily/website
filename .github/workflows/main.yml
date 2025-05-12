@@ -17,6 +17,7 @@ jobs:
         env:
           PAGES_BRANCH: az-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ZOLA_ENV: prod
           
   deploy_azure:
     needs: build
