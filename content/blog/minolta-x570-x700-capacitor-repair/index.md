@@ -17,7 +17,9 @@ This guide applies primarily to the X-500 (or X-570 as it was marketed in the US
 
 The X-700 has, as I understand it, an additional capacitor at the top of the camera and the replacement of that isn’t covered here. Replacing just the bottom capacitor is sometimes enough to get the camera working again and sometimes not. 
 
-{{ img(path="./image.jpg", alt="") }}
+{{ img(path="./1.jpg", alt="") }}
+
+{{ img(path="./2.jpg", alt="") }}
 
 ## Background
 
