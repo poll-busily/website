@@ -3,7 +3,7 @@ title = "My Movie"
 date = 2020-08-22
 
 [taxonomies]
-categories = ["film"]
+categories = ["wildlife"]
 
 [extra]
 featured_image = "image.jpg"
