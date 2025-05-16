@@ -3,7 +3,7 @@ title = "Example software project"
 date = 2021-08-11
 
 [taxonomies]
-categories = ["software"]
+categories = ["landscape"]
 
 [extra]
 repo_path = "justint/papaya"
