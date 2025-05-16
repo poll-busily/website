@@ -1,12 +1,14 @@
 +++
-title = "My Movie"
-date = 2020-08-22
+title = "Salento"
+date = 2023-09-01
 
 [taxonomies]
-categories = ["wildlife"]
+categories = ["travel"]
 
 [extra]
 featured_image = "image.jpg"
+featured_image_alt = "A lodge overlooks a forested mountain range."
+featured_image_extended = false
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
