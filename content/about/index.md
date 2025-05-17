@@ -4,7 +4,7 @@ render = true
 template = "about.html"
 +++
 
-{{ img(path="@/about/me.jpg", class="bordered", alt="Not thinking about code...", caption="Not thinking about code...") }}
+{{ img(path="@/about/portrait.png" ) }}
 
 I'm a software and cybersecurity consultant based in Cambridge, UK. In my career I've worked in deeply-embedded software, at the boundary of hardware and software, and all the way up in the cloud, writing distributed services.
 
