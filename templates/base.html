@@ -37,9 +37,9 @@
     {% block header %}
     {% set base_url = get_url(path="", lang=lang) %}
     <header>
-        <h1 class="site-header">
-            <a href="{{ base_url }}">{{ config.title }}</a>
-        </h1>
+        <a href="{{ base_url }}">
+            <img src="/header.webp", class="header-logo", alt="Paul Beesley website logo: the author's name set in a bold typeface with pastel yellow, blue, orange and teal colours."/>
+        </a>
         <nav>
             <ul>
             {% block nav_bar %}
