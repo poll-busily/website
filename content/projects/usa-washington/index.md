@@ -1,12 +1,9 @@
 +++
-title = "Example software project"
+title = "Washington"
 date = 2021-08-11
 
 [taxonomies]
-categories = ["landscape"]
-
-[extra]
-repo_path = "justint/papaya"
+categories = ["usa"]
 +++
 
 This is my first software project!

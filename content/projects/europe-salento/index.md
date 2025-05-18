@@ -3,12 +3,8 @@ title = "Salento"
 date = 2023-09-01
 
 [taxonomies]
-categories = ["travel"]
+categories = ["europe"]
 
-[extra]
-featured_image = "image.jpg"
-featured_image_alt = "A lodge overlooks a forested mountain range."
-featured_image_extended = false
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
@@ -18,6 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 > Proin est augue, pellentesque sit amet nisi ut, viverra vestibulum purus. Quisque ac varius elit.
 
 Praesent vitae pretium lacus, at placerat velit. Nulla feugiat quam eget quam tempus, id vulputate nulla suscipit. Vestibulum porta mollis molestie. In mollis diam et ante varius imperdiet et a elit. Mauris sodales quis nisi nec fringilla[^1]. Aenean sed fermentum nunc, a consectetur magna.
+
 
 - Maecenas eget ligula porttitor, egestas orci id, gravida nisl. 
 - Aliquam erat volutpat. 
