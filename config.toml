@@ -82,7 +82,8 @@ max_width = 2500
 github = "poll-busily"
 linkedin = "paul-beesley-987944172"
 other = [
-    { name = "QRZ", font_awesome = "fa-solid fa-walkie-talkie", url = "https://www.qrz.com/db/M0OOP" }
+    { name = "QRZ", font_awesome = "fa-solid fa-walkie-talkie", url = "https://www.qrz.com/db/M0OOP" },
+    { name = "Zwift", font_awesome = "fa-solid fa-person-biking", url = "https://www.zwift.com/uk/athlete/8a2df45a-436f-4a08-9109-28624bec3969" }
 ]
 
 # CDN links
