@@ -16,9 +16,9 @@
 
 {% if path is not ending_with(".svg") %}
     {% set resize = true %}
-    {% set image_quality = 85 %}
+    {% set image_quality = 90 %}
     {% if quality %}
-        {% set image_quality = quality %}
+        {% set image_quality = 90 %}
     {% endif %}
 
     {% if extended_width_pct %}
